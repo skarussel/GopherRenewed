@@ -149,6 +149,7 @@ More instruction in the configuration file.
 
 ```diff
 + If you make a config file you feel could benefit people with the same use scenario as you, feel free to make a pull request for it in the public configs directory.
++ comment
 ```
 
 
